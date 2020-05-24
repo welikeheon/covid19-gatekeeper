@@ -1,4 +1,4 @@
-# 👗👜 COVID-19 Gate Keeper
+# 😷 COVID-19 Gate Keeper
 ## Powerful Gate Keeper System for Covid19
 ![Version - 1.0.0](https://img.shields.io/badge/Version-1.0.0-orange.svg)
 
